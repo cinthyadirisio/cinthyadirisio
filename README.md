@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Fundación Retorno a la Libertad](https://github.com/fundacion-rl/frontend-app)
 
-- 🌱 I’m currently learning **AntD, AWS**
+- 🌱 I’m currently learning **Bootstrap, Vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cinthyadirisio](https://github.com/cinthyadirisio)
 
@@ -31,8 +31,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com//cindy.fdb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="/cindy.fdb" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cinthyadirisio&show_icons=true&locale=en&layout=compact" alt="cinthyadirisio" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cinthyadirisio&show_icons=true&locale=en&layout=compact" alt="cinthyadirisio" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cinthyadirisio&show_icons=true&locale=en" alt="cinthyadirisio" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cinthyadirisio&show_icons=true&locale=en" alt="cinthyadirisio" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cinthyadirisio&" alt="cinthyadirisio" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cinthyadirisio&" alt="cinthyadirisio" /></p><br>
