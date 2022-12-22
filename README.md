@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cinthyadirisio" alt="cinthyadirisio" /></a> </p>
 
-- 🔭 I’m currently working on [Fundación Retorno a la Libertad](https://github.com/fundacion-rl/frontend-app)
+- 🔭 I’m currently working on [Fundación Retorno a la Libertad](https://github.com/fundacion-rl/frontend-app) and I'm a Jr Mentor at MindHub
 
 - 🌱 I’m currently learning **Bootstrap, Vue**
 
