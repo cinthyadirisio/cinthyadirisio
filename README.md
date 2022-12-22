@@ -32,7 +32,7 @@
 <p><a href="https://www.buymeacoffee.com//cindy.fdb"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="/cindy.fdb" /></a></p><br>
 
 <h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cinthyadirisio&show_icons=true&locale=en&layout=compact" alt="cinthyadirisio" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cinthyadirisio&show_icons=true&locale=en&layout=compact" alt="cinthyadirisio" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cinthyadirisio&show_icons=true&locale=en" alt="cinthyadirisio" /></p><br>
 
