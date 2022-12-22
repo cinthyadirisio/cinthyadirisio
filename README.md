@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cindy</h1>
-<h3 align="center">A passionate Full-Stack MERN Developer from Argentina</h3>
+<h3 align="center">A passionate Full-Stack MERN Developer and Mentor from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cinthyadirisio&label=Profile%20views&color=0e75b6&style=flat" alt="cinthyadirisio" /> </p>
 
