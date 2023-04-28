@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Fundación Retorno a la Libertad](https://github.com/fundacion-rl/frontend-app) and I'm a Jr Mentor at MindHub
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Vue CLI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cinthyadirisio](https://github.com/cinthyadirisio)
 
