@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Cinthya and I'm a Full-Stack Developer, from Argentina</h2>
+<h1 align="center">Hi 👋, I'm Cinthya</h1>
+<h3 align="center">A Full-Stack Developer from Argentina</h3>
 
 ###
 
@@ -12,6 +13,13 @@
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif"  />
+
+###
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/cinthyadirisio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cinthyadirisio" height="30" width="40" /></a>
+</p>
 
 ###
 
@@ -34,12 +42,6 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 
 ###
 
