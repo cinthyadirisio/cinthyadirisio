@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif"  />
 
 ###
 
@@ -24,6 +24,7 @@
 ###
 
 <div align="left">
+  <h3 align="left">Languages and Tools:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
