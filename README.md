@@ -46,10 +46,10 @@
 <hr>
 
 <h3 align="left">Certifications:</h3>
-<img align="center" height="200" src="[https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif](https://images.credly.com/size/340x340/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png)"  />
-<img align="center" height="200" src="https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif"  />
-<img align="center" height="200" src="https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif"  />
-<img align="center" height="200" src="https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif"  />
+<img align="center" height="200" src="https://images.credly.com/size/340x340/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png"  />
+<img align="center" height="200" src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png"  />
+<img align="center" height="200" src="https://images.credly.com/size/340x340/images/9ab2bbf5-a5cd-4c36-9c5a-1ce7e0e0cd32/Insignia_MERN-20.png"  />
+<img align="center" height="200" src="https://images.credly.com/size/340x340/images/0335285a-d3e9-4a1e-aeaf-8f09d5091776/image.png"  />
 
 ###
 
